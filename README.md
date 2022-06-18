@@ -9,7 +9,7 @@ In this repository u can find many really good things (maybe). For the beginners
 On this pic u can see the "number" of file. So u can just serch in "Go to file" the file you need.
 
 
-##Branches
+## Branches
 About branches: u can choose the branch here:
 ![Image alt](https://wmpics.space/di-BF4Q.png "Branches")
 

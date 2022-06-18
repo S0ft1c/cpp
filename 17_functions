@@ -1,6 +1,17 @@
 #include<iostream> 
 using namespace std;
 
+void foo()
+{
+	cout << "Я функция. Меня опять вызвали" << endl;
+
+}
+
+inline int Sum(int a, int b)
+{
+	return a + b;	
+}
+
 void main()
 {
 	setlocale(LC_ALL, "Rus");     
